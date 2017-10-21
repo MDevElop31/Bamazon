@@ -1,1 +1,2 @@
-# Bamazon
+WELCOME TO BAMAZON!
+
